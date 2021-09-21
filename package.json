@@ -3,6 +3,7 @@
   "scripts": {
     "prepare": "husky install"
   },
+  "workspaces": ["web"],
   "devDependencies": {
     "cz-conventional-changelog": "3.3.0",
     "husky": "^7.0.2"
