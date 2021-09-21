@@ -1,7 +1,7 @@
 # 🌾 mutual aid
 
-> Practicing mutual aid is the surest means for giving each other and to all the greatest
-> safety, the best guarantee of existence and progress, bodily, intellectual and moral.
+> Practicing mutual aid is the surest means for giving each other and to all
+> the greatest safety, the best guarantee of existence and progress, bodily, intellectual and moral. — Peter Kropotkin
 
 ## Development
 
